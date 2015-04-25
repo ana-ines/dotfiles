@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/anita/datos-notebook/Documentos/INFORMATICA/TERCERO/PROYECTO/final/view'
+let g:netrw_dirhist_2='/home/anita/datos-notebook/Documentos/INFORMATICA/TERCERO/PROYECTO/final/view/Administracion'
+let g:netrw_dirhist_3='/home/anita/datos-notebook/Documentos/INFORMATICA/TERCERO/Ruby/romans'
+let g:netrw_dirhist_4='/home/anita/datos-notebook/Documentos/INFORMATICA/TERCERO/Ruby/romans/version-1'
+let g:netrw_dirhist_5='/home/anita/datos-notebook/Documentos/INFORMATICA/TERCERO/Ruby/romans'
+let g:netrw_dirhist_6='/home/anita/datos-notebook/Documentos/INFORMATICA/TERCERO/Ruby/romans/version-1'
+let g:netrw_dirhist_7='/home/anita/Escritorio/Parcialito3/test'
